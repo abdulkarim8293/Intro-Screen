@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Intro Screen</string>
+
+    <string name="slide_1_title">Title One</string>
+    <string name="slide_1_desc">“ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat ”</string>
+
+    <string name="slide_2_title">Title Two</string>
+    <string name="slide_2_desc">“ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat ”</string>
+
+    <string name="slide_3_title">Title Three</string>
+    <string name="slide_3_desc">“ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat ”</string>
+
+    <string name="slide_4_title">Title Four</string>
+    <string name="slide_4_desc">“ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat ”</string>
+
+</resources>
